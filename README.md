@@ -1,4 +1,4 @@
-# BU DS 210 Graph Analysis with Rust
+# BU DS 210 Graph Analysis with Rust (Private Repo)
 
 This project focuses on analyzing graphs using the Rust programming language. Rust is a language that prioritizes safety, speed, and concurrency, making it a good choice for graph analysis.
 
