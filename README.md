@@ -7,7 +7,7 @@ The project is structured in several directories, each containing a different as
 The analysis performed in this project includes several algorithms, such as depth-first search, breadth-first search, and Dijkstra's algorithm. These algorithms are used to find the shortest path between nodes, the connected components of a graph, and other properties of the graph. The project also includes visualizations of the graphs using the "graphviz" library.
 
 
-# Project Datasets
+# Project Datasets 
 
 The final project will require analyzing a graph. The graph will be either directly provided by a data set, or it will be derived from a data set. We recommend finding a data set and challenge that you find interesting. Below we provide links to a few websites that can help you find a data set.
 
