@@ -132,10 +132,6 @@ pub fn random_walks(
 }
 
 
-
-
-
-
 fn transition_probabilities(
     graph: &Graph<(f64, f64), f64, Undirected>,
     neighbors: &[NodeIndex],

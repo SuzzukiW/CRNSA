@@ -1,0 +1,60 @@
+Number of nodes: 1965206
+Number of edges: 2766607
+Degree centrality written to sample_degree_centrality.json
+Top nodes with the highest degree centrality:
+Node 1: id=562818, degree centrality=12
+Node 2: id=534751, degree centrality=10
+Node 3: id=521168, degree centrality=10
+Node 4: id=1795416, degree centrality=9
+Node 5: id=1157887, degree centrality=8
+Node 6: id=1093724, degree centrality=8
+Node 7: id=1616784, degree centrality=8
+Node 8: id=617103, degree centrality=8
+Node 9: id=290162, degree centrality=8
+Node 10: id=5657, degree centrality=8
+Degree distribution: [0, 321027, 204754, 971276, 454208, 11847, 1917, 143, 30, 1, 2, 0, 1], shape=[13], strides=[1], layout=CFcf (0xf), const ndim=1
+Clustering coefficient: 0.046370270074755485
+Network density: 1.4327206657979522e-6
+PageRank results:
+Node: NodeIndex(234679), Rank: 0.0000015108195426166147
+Node: NodeIndex(267076), Rank: 0.0000014963223508171434
+Node: NodeIndex(571924), Rank: 0.0000014603242249559171
+Node: NodeIndex(200299), Rank: 0.0000014399110747491118
+Node: NodeIndex(529105), Rank: 0.0000013736346047116763
+Node: NodeIndex(1368330), Rank: 0.0000012941237629725948
+Node: NodeIndex(751879), Rank: 0.0000012704791770856644
+Node: NodeIndex(245979), Rank: 0.0000012601173654198325
+Node: NodeIndex(1023770), Rank: 0.0000012598643287972244
+Node: NodeIndex(1686555), Rank: 0.00000125709333784604
+Assortativity Coefficient: 0.007451801430078585
+Leiden community assignments written to sample_leiden_output.json
+Number of communities: 586808
+Top communities and their sizes:
+Community 1: id=104, size=4681
+Community 2: id=16266, size=94
+Community 3: id=28024, size=77
+Community 4: id=28181, size=69
+Community 5: id=105813, size=65
+Community 6: id=10304, size=63
+Community 7: id=23704, size=58
+Community 8: id=29976, size=56
+Community 9: id=476, size=56
+Community 10: id=25069, size=56
+Number of core nodes: 3
+Number of periphery nodes: 1965203
+Top 10 core nodes: [NodeIndex(571924), NodeIndex(529105), NodeIndex(504201)]
+Top 10 periphery nodes: [NodeIndex(1795590), NodeIndex(313243), NodeIndex(1400754), NodeIndex(294880), NodeIndex(7591), NodeIndex(1272204), NodeIndex(1096399), NodeIndex(1488707), NodeIndex(398981), NodeIndex(994464)]
+Number of bridge edges: 372704
+Bridge edges (up to 10):
+Bridge edge 1: (NodeIndex(1763082), NodeIndex(1763112))
+Bridge edge 2: (NodeIndex(748906), NodeIndex(748926))
+Bridge edge 3: (NodeIndex(479049), NodeIndex(498771))
+Bridge edge 4: (NodeIndex(1490400), NodeIndex(1490500))
+Bridge edge 5: (NodeIndex(1691797), NodeIndex(1691796))
+Bridge edge 6: (NodeIndex(1453030), NodeIndex(1453032))
+Bridge edge 7: (NodeIndex(1205333), NodeIndex(1205342))
+Bridge edge 8: (NodeIndex(450433), NodeIndex(450476))
+Bridge edge 9: (NodeIndex(253683), NodeIndex(254078))
+Bridge edge 10: (NodeIndex(674426), NodeIndex(674429))
+Number of connected components: 2638
+Shortest paths saved to sample_shortest_paths.json
