@@ -76,6 +76,10 @@ To get started with the project, follow these steps:
 
 Happy coding! 🚀
 
+## Project Writeup
+
+If you're interested in a PDF version of our project writeup, feel free to check out the project_writeup directory. Enjoy reading!
+
 ## Project Modules
 
 - `main.rs`
@@ -382,5 +386,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 We would like to express our gratitude to:
 
-- Professor Leonidas Kontothanassis from the BU Faculty of Computing & Data Sciences, for his invaluable guidance and support throughout the development of this project.
+- [Professor Leonidas Kontothanassis](https://www.bu.edu/cds-faculty/profile/kthanasi/) from the BU Faculty of Computing & Data Sciences, for his invaluable guidance and support throughout the development of this project.
 - The Stanford Network Analysis Project (SNAP) for providing the dataset used in this project. Their extensive collection of network datasets and resources has been instrumental in the development and validation of our work.
