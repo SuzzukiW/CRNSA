@@ -388,3 +388,33 @@ We would like to express our gratitude to:
 
 - [Professor Leonidas Kontothanassis](https://www.bu.edu/cds-faculty/profile/kthanasi/) from the BU Faculty of Computing & Data Sciences, for his invaluable guidance and support throughout the development of this project.
 - The Stanford Network Analysis Project (SNAP) for providing the dataset used in this project. Their extensive collection of network datasets and resources has been instrumental in the development and validation of our work.
+
+## References
+
+#### Papers
+
+1. Newman, M. E. J. (2003). The structure and function of complex networks. SIAM review, 45(2), 167-256.
+
+2. Barabási, A. L., & Albert, R. (1999). Emergence of scaling in random networks. Science, 286(5439), 509-512.
+
+3. Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of 'small-world' networks. Nature, 393(6684), 440-442.
+
+4. Brandes, U. (2001). A faster algorithm for betweenness centrality. Journal of Mathematical Sociology, 25(2), 163-177.
+
+5. Freeman, L. C. (1977). A set of measures of centrality based on betweenness. Sociometry, 40(1), 35-41.
+
+6. Brin, S., & Page, L. (1998). The anatomy of a large-scale hypertextual web search engine. Computer networks and ISDN systems, 30(1-7), 107-117.
+
+7. Blondel, V. D., Guillaume, J. L., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in large networks. Journal of Statistical Mechanics: Theory and Experiment, 2008(10), P10008.
+
+8. Traag, V. A., Waltman, L., & Van Eck, N. J. (2019). From Louvain to Leiden: guaranteeing well-connected communities. Scientific reports, 9(1), 1-12.
+
+9. Dijkstra, E. W. (1959). A note on two problems in connexion with graphs. Numerische Mathematik, 1(1), 269-271.
+
+10. Clauset, A., Shalizi, C. R., & Newman, M. E. (2009). Power-law distributions in empirical data. SIAM review, 51(4), 661-703.
+
+#### Blog Posts
+
+1. [Neo4j (2021). Graph Data Science Library: User Guide](https://neo4j.com/docs/graph-data-science/current/)
+2. [Amine Aoullay (2018). Spectral Clustering for Beginners](https://towardsdatascience.com/spectral-clustering-for-beginners-d08b7d25b4d8)
+3. [Thamindu Dilshan Jayawickrama (2021). Community Detection Algorithms. Towards Data Science](https://towardsdatascience.com/community-detection-algorithms-9bd8951e7dae)
