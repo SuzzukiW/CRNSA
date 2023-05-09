@@ -300,7 +300,7 @@ Additionally, the find_shortest_paths function in our implementation includes an
 
 ## AlgoRepo
 
-AlgoRepo is a collection of two graph algorithms that you've written but haven't yet fully integrated into the main program: Label Propagation Algorithm (LPA) and K-Core Decomposition. Below is an explanation of how these algorithms work and the potential implications of their results if they were implemented in the future.
+AlgoRepo is a collection of three graph algorithms that we have written but haven't yet fully integrated into the main program: Label Propagation Algorithm (LPA) and K-Core Decomposition. Below is an explanation of how these algorithms work and the potential implications of their results if they were implemented in the future.
 
 #### Label Propagation Algorithm (LPA.rs)
 
